@@ -125,7 +125,7 @@ mimic-los-prediction/
 
 ## Course
 
-**ISE 534: Data Analytics Consulting** — Spring 2026  
+**ISE 543: Data Analytics Consulting** — Spring 2026  
 USC Viterbi School of Engineering  
 Instructor: Prof. Maryam Pishgar
 
